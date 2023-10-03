@@ -95,7 +95,7 @@ a {
 #search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    margin-right: 100px;
+    margin-left: -100px;
     text-align: center;
     text-indent: 18px;
 }
