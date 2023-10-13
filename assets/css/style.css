@@ -206,40 +206,16 @@ a {
     color: #ffffff;
 }
 
-/*Lead generation division header style*/
-.benefit-lead h3 {
+/*Benefits header style*/
+
+#benefits h3{
     margin-bottom: 10px;
     text-align: center;  
 }
 
-/*Brand awareness division header style*/
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+/*Benefits image style*/
 
-/*Cost management division header style*/
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*Lead generation division image style*/
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*Brand awareness division image style*/
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/*Cost management division image style*/
-.benefit-cost img {
+#benefits img{
     display: block;
     margin: 10px auto;
     max-width: 150px;
